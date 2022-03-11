@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/dp.jpg">
 
 My name is Gagan Jain, and I am a senior undergraduate student in Mechanical Engineering, with a focus on Computer Vision and Reinforcement Learning for Robotics at [IIT Bombay](http://iitb.ac.in). I'm advised by Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) for the research project [SeDriCa](https://www.umiciitb.com/competitions/SeDriCa) and my Bachelor's Thesis on Visual Perception for Autonomous Driving.
 
@@ -18,30 +18,25 @@ Email ID: [gaganjain1582@gmail.com](mailto:gaganjain1582@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Feb 2022:</b></td><td>two papers to appear in ACL 2022, on <a href="https://arxiv.org/abs/2110.07385">few-shot multilingual style transfer</a> and a new <a href="https://openreview.net/forum?id=xcelRQScTjP">retrieval benchmark on literary text</a>.</td></tr>
-<tr><td><b>Sept 2021:</b></td><td>received the <a href="https://research.google/outreach/phd-fellowship/">Google PhD Fellowship</a> for 2021! (<a href="https://research.google/outreach/phd-fellowship/recipients/?category=2021">list of recipients</a>)</td></tr>
-<tr><td><b>June 2021:</b></td><td>started my summer internship at <a href="https://research.google/locations/india/">Google Research India</a> where I will be working with <a href="http://talukdar.net/">Partha Talukdar</a> and <a href="https://sites.google.com/view/bidisha-samanta/">Bidisha Samanta</a></td></tr>
-<tr><td><b>May 2021 - July 2021:</b></td><td>talks at Google Research (<a href="https://docs.google.com/presentation/d/1kkl0fGbhEqWnUDkcSbFsDWIKnojlR_HFiCvhAhXW2Uk/edit?usp=sharing">slides</a>), <a href="https://sites.google.com/view/utnlpsummerseminar/home">University of Texas at Austin</a> (<a href="https://docs.google.com/presentation/d/1eAV7Sn8KtT095YabkYtdcRKbWOUwwfmHazbQCjCTqSM/edit?usp=sharing">slides</a>), <a href="https://nlg.isi.edu/nl-seminar/">University of Southern California</a> (<a href="https://docs.google.com/presentation/d/11kg2-h7asnAvnTe4PPUPup4H8W0XpCmqbcsx_AATKlI/edit?usp=sharing">slides</a>, <a href="https://youtu.be/bv95xMBZO_U">video</a>) on text generation and perils of its evaluation.</td></tr>
-<tr><td><b>Mar 2021:</b></td><td>new <a href="https://arxiv.org/abs/2103.06332">paper</a> on longform question answering on <a href="https://arxiv.org/abs/1907.09190">ELI5</a> to appear in NAACL 2021! Read more in our <a href="https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html">Google AI blogpost</a>.</td></tr>
-<tr><td><b>Dec 2020:</b></td><td>passed my <a href="https://www.cics.umass.edu/grads/phd-portfolio">PhD candidacy</a> with distinction!</td></tr>
-<tr><td><b>Sep 2020:</b></td><td>I am excited to share a new bird photography webpage! Check the <a href="{{ site.url }}/birding">Birding</a> tab.</td></tr>
-<tr><td><b>Sep 2020:</b></td><td>new <a href="https://arxiv.org/abs/2010.05700">paper</a> on paraphrasing for unsupervised style transfer to appear at EMNLP 2020. Check out a live demo and the codebase <a href="http://style.cs.umass.edu">here</a>.</td></tr>
-<tr><td><b>May 2020:</b></td><td>started my summer internship at <a href="https://research.google/teams/brain/">Google Brain</a>, where I will be working with <a href="https://sites.google.com/site/royaurko">Aurko Roy</a></td></tr>
-<tr><td><b>Apr 2020:</b></td><td>talk at <a href="https://www.research.ibm.com/">IBM research</a> on model extraction attacks on BERT (<a href="https://docs.google.com/presentation/d/1emJb07ER8Gje6PGauIU--t0DCgvECJlnjVQfv9rOUkM/edit">slides</a>)</td></tr>
-<tr><td><b>Apr 2020:</b></td><td>new <a href="http://www.cleverhans.io/2020/04/06/stealing-bert.html">blogpost</a> with <a href="https://www.papernot.fr">Nicolas Papernot</a> on our ICLR 2020 paper on model extraction attacks on BERT.</td></tr>
-<tr><td><b>Jan 2020:</b></td><td>I am co-organizing the <a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch</a> at UMass Amherst with Neha Nayak Kennard. If you have speaker recommendations, fill them <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2gqWTn4UXWqxbuLB1EPcuLBO7hP3aXh-ZluMvJsxL-hHI2Q/viewform">here</a>!</td></tr>
-<tr><td><b>Dec 2019:</b></td><td> new <a href="https://arxiv.org/abs/1910.12366">paper</a> on model extraction attacks on BERT-based models to appear at ICLR 2020.</td></tr>
-<tr><td><b>Oct 2019:</b></td><td> new <a href="https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/">blog</a> surveying twelve recent NLP PhD applicants on the graduate school admission process! Also an <a href="https://www.insightiitb.org/umass-amherst-kalpesh-krishna-univ-series/">Insight IITB article</a> on my personal experience.</td></tr>
-<tr><td><b>Aug 2019:</b></td><td> lightning talk at the <a href="https://medium.com/ai2-blog/2019-allennlp-summit-c954d258f819">AllenNLP Summit 2019</a> on using AllenNLP for education. Check out the AllenNLP homework I designed for our grad NLP class <a href="https://github.com/martiansideofthemoon/allennlp-probe-hw">here</a>!</td></tr>
-<tr><td><b>Jul 2019:</b></td><td> presented papers on <a href="https://arxiv.org/abs/1906.02622">QA generation</a> and <a href="https://arxiv.org/abs/1906.02780">faster transformer decoding</a> at ACL 2019. Check out our <a href="http://squash.cs.umass.edu/">web demo</a> on hierarchical QA generation!</td></tr>
-<tr><td><b>Jul 2019:</b></td><td> awarded the <a href="http://www.acl2019.org/EN/student-scholarship-applications-volunteers.xhtml">ACL 2019 Student Scholarship</a> and the <a href="https://www.cics.umass.edu/support#lesser">Victor Lesser Graduate Scholarship</a></td></tr>
-<tr><td><b>Jun 2019:</b></td><td> <a href="http://purvaten.github.io/">Purva Tendulkar</a> won the <a href="https://twitter.com/jmacunha/status/1142184529026662400"><i>Best Presentation Award</i></a> for our <a href="https://arxiv.org/abs/1903.07820">paper</a> in ICCC 2019!</td></tr>
-<tr><td><b>May 2019:</b></td><td> started summer internship at <a href="https://ai.google/research/teams/language/">Google AI Language</a> in New York</td></tr>
-<tr><td><b>Apr 2019:</b></td><td> talk at the UMass <a href="https://ds.cs.umass.edu/news-events/events/data-science-research-symposium-2019">Data Science Research Symposium 2019</a></td></tr>
-<tr><td><b>Apr 2019:</b></td><td> new <a href="https://arxiv.org/abs/1903.07820">paper</a> on thematic doodle generation to appear in <a href="http://www.computationalcreativity.net/iccc2019/">ICCC 2019</a></td></tr>
-<tr><td><b>Nov 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1808.07733">paper</a> on logic rules for sentiment classification at EMNLP 2018 (<a href="assets/emnlp-2018.pdf">slides</a>)</td></tr>
-<tr><td><b>Sep 2018:</b></td><td> started my PhD in Computer Science at UMass Amherst</td></tr>
-<tr><td><b>Aug 2018:</b></td><td> graduated from IIT Bombay, receiving the Sharad Maloo Memorial Gold Medal</td></tr>
-<tr><td><b>Jul 2018:</b></td><td> new <a href="https://arxiv.org/abs/1807.06234">preprint</a> on hierarchical multitask learning for speech recognition</td></tr>
-<tr><td><b>Jun 2018:</b></td><td> new blogs on <a href="2018/05/29/grad-resources.html">grad resources</a>, <a href="2018/06/04/cs-opportunities.html">IIT Bombay CS opportunities</a> and <a href="2018/06/05/crowd-sourcing.html">crowdsourcing</a></td></tr>
-<tr><td><b>Apr 2018:</b></td><td> presented <a href="https://arxiv.org/abs/1710.10398">paper</a> on CNNs for end-to-end speech recognition at ICASSP 2018 (<a href="https://sigport.org/sites/default/files/docs/study-convolutional-encoders.pdf">poster</a>)</td></tr>
+<tr><td><b>Mar 2022:</b></td><td> Accepted as a Master's Student for Robotics, Systems and Control at <a href="https://ethz.ch/en.html">ETH Zurich</a></td></tr>
+<tr><td><b>Dec 2021:</b></td><td> Received placement offer for a Data Science role at Microsoft India Development Centre</a>)</td></tr>
+<tr><td><b>Aug 2021:</b></td><td> Attended the virtual Machine Learning Summer School (MLSS) organized by NTU Taiwan</td></tr>
+<tr><td><b>Jul 2021:</b></td><td> Started working on my Bachelor's thesis on "Visual Perception for Autonomous Driving" with <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a></td></tr>
+<tr><td><b>Jul 2021:</b></td><td> Promoted as the team leader for project <a href="https://www.umiciitb.com/competitions/SeDriCa">SeDriCa</a></td></tr>
+<tr><td><b>Jun 2021:</b></td><td> Recognized as Department Organizational Color for year-long contributions to departmen activities</td></tr>
+<tr><td><b>May 2021:</b></td><td> Started my summer internship at <a href="https://www.coupa.com/">Coupa Software</a> as a Data Scientist</td></tr>
+<tr><td><b>May 2021:</b></td><td> Delivered a talk on getting started with Data Analytics and Machine Learning at IIT Bombay</td></tr>
+<tr><td><b>Apr 2021:</b></td><td> Stood fourth in the world at the Finals of <a href="https://efests.asme.org/competitions/student-design-competition-(sdc)">ASME Student Design Challenge</a></td></tr>
+<tr><td><b>Mar 2021:</b></td><td> Won the Bronze medal at the Inter-IIT Tech Meet 9.0 for Bosch's Computer Vision Challenge</td></tr>
+<tr><td><b>Mar 2021:</b></td><td> Presented my work on <a href="https://drive.google.com/file/d/1oVUJrCfL1jn6j3bNjvekkSnDTdgxWk8B/view?usp=sharing">Model Predictive Control</a> for Autonomous Driving at the Virtual Research Symposium for Students held at IIT Bombay in collaboration with NTU Singapore</td></tr>
+<tr><td><b>Feb 2021:</b></td><td> Paper on the Application of Deep CNNs and Infrared Spectroscopy for Drug and Toxin Detection accepted at the International Journal of Engineering and Advanced Technology <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i3/C22380210321.pdf">IJEAT</a></td></tr>
+<tr><td><b>Oct 2020:</b></td><td> Stood amongst the top 41 out of 6k+ teams in the <a href="https://dare2compete.com/hackathon/flipkart-grid-20-robotics-challenge-flipkart-grid-20-flipkart-113687">Flipkart Grid 2.0 Robotics</a> Challenge</td></tr>
+<tr><td><b>Jul 2020:</b></td><td> Honored with the award Institute Technical Special Mention during the annual Institute Gymkhana Awards</td></tr>
+<tr><td><b>Jun 2020:</b></td><td> Started serving as the Department Research Coordinator for Mechanical Engineering</td></tr>
+<tr><td><b>May 2020:</b></td><td> Started working as a summer research intern at the <a href="https://www.cam.ac.uk/">University of Cambridge</a> remotely</td></tr>
+<tr><td><b>Apr 2020:</b></td><td> Promoted as the team manager and controls subsystem lead for the team SeDriCa</td></tr>
+<tr><td><b>Sep 2019:</b></td><td> Shortlisted as a finalist for Python Hackfury 2.0 by Intel on the theme "Innovation in AI"</td></tr>
+<tr><td><b>Sep 2019:</b></td><td> Started working on the autonomous driving project <a href="https://www.umiciitb.com/competitions/SeDriCa">SeDriCa</a> as Control and Computer Vision Engineer</td></tr>
+<tr><td><b>Feb 2019:</b></td><td> Emerged as overall champions in the Asia-Pacific Round of Student Design Challenge conducted by the American Society of Mechanical Engineers (<a href="https://efests.asme.org/competitions/student-design-competition-(sdc)">ASME</a>)</td></tr>
+<tr><td><b>Nov 2018:</b></td><td> Joined the student technical team Unmesh Mashruwala Innovation Cell (<a href="https://www.umiciitb.com">UMIC</a>)</td></tr>
+<tr><td><b>Jul 2018:</b></td><td> Started my B.Tech. in Mechanical Engineering at <a href="http://iitb.ac.in">IIT Bombay</a></td></tr>
