@@ -19,7 +19,7 @@ Email ID: [gaganjain1582@gmail.com](mailto:gaganjain1582@gmail.com)
 <col width="100px">
 <col width="650px">
 <tr><td><b>Mar 2022:</b></td><td> Accepted as a Master's Student for Robotics, Systems and Control at <a href="https://ethz.ch/en.html">ETH Zurich</a></td></tr>
-<tr><td><b>Dec 2021:</b></td><td> Received placement offer for a Data Science role at Microsoft India Development Centre</a>)</td></tr>
+<tr><td><b>Dec 2021:</b></td><td> Received placement offer for a Data Science role at Microsoft India Development Centre</td></tr>
 <tr><td><b>Aug 2021:</b></td><td> Attended the virtual Machine Learning Summer School (MLSS) organized by NTU Taiwan</td></tr>
 <tr><td><b>Jul 2021:</b></td><td> Started working on my Bachelor's thesis on "Visual Perception for Autonomous Driving" with <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a></td></tr>
 <tr><td><b>Jul 2021:</b></td><td> Promoted as the team leader for project <a href="https://www.umiciitb.com/competitions/SeDriCa">SeDriCa</a></td></tr>
@@ -29,7 +29,7 @@ Email ID: [gaganjain1582@gmail.com](mailto:gaganjain1582@gmail.com)
 <tr><td><b>Apr 2021:</b></td><td> Stood fourth in the world at the Finals of <a href="https://efests.asme.org/competitions/student-design-competition-(sdc)">ASME Student Design Challenge</a></td></tr>
 <tr><td><b>Mar 2021:</b></td><td> Won the Bronze medal at the Inter-IIT Tech Meet 9.0 for Bosch's Computer Vision Challenge</td></tr>
 <tr><td><b>Mar 2021:</b></td><td> Presented my work on <a href="https://drive.google.com/file/d/1oVUJrCfL1jn6j3bNjvekkSnDTdgxWk8B/view?usp=sharing">Model Predictive Control</a> for Autonomous Driving at the Virtual Research Symposium for Students held at IIT Bombay in collaboration with NTU Singapore</td></tr>
-<tr><td><b>Feb 2021:</b></td><td> Paper on the Application of Deep CNNs and Infrared Spectroscopy for Drug and Toxin Detection accepted at the International Journal of Engineering and Advanced Technology <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i3/C22380210321.pdf">IJEAT</a></td></tr>
+<tr><td><b>Feb 2021:</b></td><td> Paper on the Application of Deep CNNs and Infrared Spectroscopy for Drug and Toxin Detection accepted at the International Journal of Engineering and Advanced Technology <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i3/C22380210321.pdf">(IJEAT)</a></td></tr>
 <tr><td><b>Oct 2020:</b></td><td> Stood amongst the top 41 out of 6k+ teams in the <a href="https://dare2compete.com/hackathon/flipkart-grid-20-robotics-challenge-flipkart-grid-20-flipkart-113687">Flipkart Grid 2.0 Robotics</a> Challenge</td></tr>
 <tr><td><b>Jul 2020:</b></td><td> Honored with the award Institute Technical Special Mention during the annual Institute Gymkhana Awards</td></tr>
 <tr><td><b>Jun 2020:</b></td><td> Started serving as the Department Research Coordinator for Mechanical Engineering</td></tr>
