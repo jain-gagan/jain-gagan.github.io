@@ -5,4 +5,5 @@ permalink: /assets/cv.pdf
 order: 4
 ---
 
-[4-page CV]({{ site.url }}/assets/cv.pdf)
+Will be updated soon!
+<!-- [4-page CV]({{ site.url }}/assets/cv.pdf) -->
