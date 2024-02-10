@@ -5,10 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/dp.jpg">
 
-Hey! I'm Gagan Jain, and I currently work as a Predoctoral Researcher at [Google Research India](https://research.google/teams/india-research-lab/) under the guidance of [Dr. Sujoy Paul](https://sujoyp.github.io/), [Dr. Arun Sai Suggula](https://research.google/people/arun-sai-suggala/) and [Dr. Prateek Jain](https://www.prateekjain.org/). My current work spans multiple independent active areas of research, including -
-    * Efficient Vision Models
-    * Collaborative Bandit Algorithms
-    * Distributionally Robust ML Optimization
+Hey! I'm Gagan Jain, and I currently work as a Predoctoral Researcher at [Google Research India](https://research.google/teams/india-research-lab/) under the guidance of [Dr. Sujoy Paul](https://sujoyp.github.io/), [Dr. Arun Sai Suggula](https://research.google/people/arun-sai-suggala/) and [Dr. Prateek Jain](https://www.prateekjain.org/). My current work spans multiple independent active areas of research, including - Efficient Vision Models, Collaborative Bandit Algorithms, and Distributionally Robust ML Optimization
 Previously, I received my Bachelor's degree from [Indian Institute of Technology Bombay](http://iitb.ac.in), where I was advised by Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/). I also worked as a Data & Applied Scientist for an year at [Microsoft India](https://www.microsoft.com/en-in/).  
 
 Email ID: [gaganjain1582@gmail.com](mailto:gaganjain1582@gmail.com)
@@ -19,10 +16,10 @@ Email ID: [gaganjain1582@gmail.com](mailto:gaganjain1582@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>2023 Sep:</b></td></td> Joined Google Research India as a Predoctoral Researcher
-<tr><td><b>2023 Jul:</b></td></td> Completed an year at Microsoft. Promoted to the next level :)
-<tr><td><b>2022 Jul:</b></td></td> Joined Microsoft India as a Data & Applied Scientist. I'll be working on Extreme Classification, and Conversational AI
-<tr><td><b>2022 May:</b></td></td> Graduated with honors and dual minors from IIT Bombay
+<tr><td><b>2023 Sep:</b></td></td> Joined Google Research India as a Predoctoral Researcher</td></tr>
+<tr><td><b>2023 Jul:</b></td></td> Completed an year at Microsoft. Promoted to the next level :)</td></tr>
+<tr><td><b>2022 Jul:</b></td></td> Joined Microsoft India as a Data & Applied Scientist. I'll be working on Extreme Classification, and Conversational AI</td></tr>
+<tr><td><b>2022 May:</b></td></td> Graduated with honors and dual minors from IIT Bombay</td></tr>
 <tr><td><b>2022 Mar:</b></td><td> Received offer for Masters in Robotics, Systems and Control at <a href="https://ethz.ch/en.html">ETH Zurich</a></td></tr>
 <tr><td><b>2021 Aug:</b></td><td> Attended the Machine Learning Summer School (MLSS) organized by NTU Taiwan</td></tr>
 <tr><td><b>2021 Jul:</b></td><td> Started working on my Bachelor's thesis on "Visual Perception for Autonomous Driving" with <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a></td></tr>
