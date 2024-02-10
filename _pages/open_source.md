@@ -7,9 +7,11 @@ order: 6
 
 Outlining my non-published projects here (open source contributions, course research projects, designed homeworks). My research work can be seen [here](/research/).
 
-#### **Other Research (Course Projects)**
+To be updated soon!
+<!-- 
+#### **Other Research** -->
 
-[Self-supervised Learning on 3D Point Clouds](https://github.com/martiansideofthemoon/pointnet-acd-deformations): New algorithms for self-supervised learning on point clouds, where we teach models to discriminate between real and fake objects. To create fake objects, we perform global perturbations to segments of an object derived from [Approximate Convex Decomposition](https://arxiv.org/abs/2003.13834) ([report]({{ site.url }}/assets/point_cloud_discriminate.pdf)).
+<!-- [Self-supervised Learning on 3D Point Clouds](https://github.com/martiansideofthemoon/pointnet-acd-deformations): New algorithms for self-supervised learning on point clouds, where we teach models to discriminate between real and fake objects. To create fake objects, we perform global perturbations to segments of an object derived from [Approximate Convex Decomposition](https://arxiv.org/abs/2003.13834) ([report]({{ site.url }}/assets/point_cloud_discriminate.pdf)).
 
 [MixMatch on Vision + Language Tasks (NLVR2)](https://github.com/martiansideofthemoon/mixmatch-lxmert): An attempt to integrate the [MixMatch](https://arxiv.org/abs/1905.02249) data augmentation algorithm for semi-supervised image classification to the challenging setting of [NLVR2](http://lil.nlp.cornell.edu/nlvr), where the input space has both images and text ([report](https://sumanvid97.github.io/docs/cv_report.pdf)).
 
@@ -51,4 +53,4 @@ As a part of my RnD project at [IIT Bombay](http://www.iitb.ac.in/), I am releas
 * Hindi (denoted by `hi`)
 * PTB (denoted by `ptb`)
 
-All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing).
+All these datasets are compatible with [SRILM](http://www.speech.sri.com/projects/srilm/). Files marked with `unk` have replaced all singletons with `<unk>` tokens. Files marked with `char` are character versions. All datasets have a `train`, `valid` and `test` file. You will find the dataset [here](https://drive.google.com/file/d/0B5Y_SiDYwIObaE52dmZ0YVFXckU/view?usp=sharing). -->

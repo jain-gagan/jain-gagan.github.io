@@ -9,7 +9,6 @@
 title: Gagan Jain
 full_name: Gagan Jain
 email: gaganjain1582@gmail.com
-# email2: kalpesh@cs.umass.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jain-gagan.github.io" # the base hostname & protocol for your site
@@ -20,7 +19,8 @@ linkedin_username: gaganjain15
 include: ['_pages']
 # footer-links-active:
   # stackoverflow: true
-
+layout: default
+comments: true
 # Build settings
 markdown: kramdown
 gems:
